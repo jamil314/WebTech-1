@@ -198,6 +198,10 @@ nav{
     margin-left: 1rem;
 }
 
+.advice_n_e-book{
+    margin-top: 1rem;
+}
+
 @media screen and (max-width: 1000px) {
     .intro_container{
         height: 750px;
